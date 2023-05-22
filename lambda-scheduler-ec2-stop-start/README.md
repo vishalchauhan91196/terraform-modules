@@ -1,0 +1,1 @@
+Terraform module to create cloudwatch event to trigger lambda for starting and stopping EC2 instances.
